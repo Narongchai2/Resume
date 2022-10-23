@@ -1,0 +1,14 @@
+.black-container{
+    height: 200;
+    width: 200;
+    background-color: black;
+}
+.white-container{
+    height: 200;
+    width: 200;
+    background-color: white;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+}
