@@ -1,4 +1,25 @@
 .toey {
     background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(6,78,167,1) 58%, rgba(0,212,255,1) 100%);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(6,78,167,1) 0%, rgba(0,212,255,1) 100%);
+}
+.HTML{
+    position:absolute;
+    right: 150px;
+    top: 100px;
+}
+.CSS{
+    position:absolute;
+    right: 275px;
+    top: 200px;
+}
+.Narong{
+    position:absolute;
+    top: 60px;
+}
+.Block{
+    position:relative;
+    background-color: #E5FFF5;
+    width: 250px;
+
+    height: 250px;
 }
