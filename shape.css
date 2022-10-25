@@ -1,0 +1,41 @@
+.toey {
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(6,78,167,1) 0%, rgba(0,212,255,1) 100%);
+}
+.HTML{
+    position:absolute;
+    right: 550px;
+    top: 120px;
+}
+.CSS{
+    position:absolute;
+    right: 310px;
+    top: 120px;
+}
+.java{
+    position:absolute;
+    right: 90px;
+    top: 120px;
+}
+
+.Narong{
+    position:absolute;
+    top: 60px;
+} 
+.Block{
+    position:relative;
+    background-color: white;
+    width: 100px;
+
+    height: 500px;
+}
+
+.Block2{
+    position:absolute;
+    background-color: rgb(2, 0, 0);
+    top: 100px;
+    width: 2px;
+    left:  750px;
+    height: 500px;
+
+}
