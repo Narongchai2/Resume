@@ -1,6 +1,6 @@
 .toey {
-    background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(6,78,167,1) 0%, rgba(0,212,255,1) 100%);
+    background: rgb(40,6,167);
+background: linear-gradient(90deg, rgba(40,6,167,1) 0%, rgba(73,0,97,1) 0%, rgba(0,220,255,1) 100%);
 }
 /*
 .HTML{
@@ -23,7 +23,7 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(6,78,167,1) 0%, rgba(
     position:absolute;
     top: 60px;
     
-} */
+} 
 .Block{
     position:relative;
     background-color: white;
@@ -31,7 +31,7 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(6,78,167,1) 0%, rgba(
 
     height: 45px;
 }
-/*
+
 .Block2{
     position:absolute;
     background-color: rgb(2, 0, 0);

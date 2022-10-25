@@ -1,44 +1,35 @@
-/*.Hred{
-    position:absolute;
-    top: 70px;
-    left: 280px;
+.Hred{
+    color:white;
 }
 .Panya{
-    position:absolute;
-    top: 110px;
-    left: 280px;
+    color:white;
 }
 .Major{
-    position:absolute;
-    top: 138px;
-    left: 280px;
+    color:white;
 }
 .Faculty{
-    position:absolute;
-    top: 168px;
-    left: 280px;
+    color:white;
 }
 .My{
-    position:absolute;
-    top: 198px;
-    left: 280px;
+    color:white;
 }
 .I{
-    position:absolute;
-    top: 228px;
-    left: 280px;
+    color:white;
 }
 .and{
-    position:absolute;
-    top: 258px;
-    left: 280px;
+    color:white;
 }
 .Skills{
-    position:absolute;
-    top: 70px;
-    right:  350px;
+    color:white;
 }
-*/
+
 .font{
     font-size: 25px;
+    align :center;
+}
+.navbar-brand{
+
+}
+.W{
+    color:white;
 }
