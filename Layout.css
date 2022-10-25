@@ -1,17 +1,17 @@
 
 .column{
   float: left;
-  width:265px;
+  width:17%;
   padding: 15px;
 }
 .column1{
     float: left;
-    width: 460px;
+    width: 28%;
     padding: 15px;
   }
   .column2{
     float: left;
-    width: 800px;
+    width: 55%;
     padding: 15px;
   }
 .row:after {
