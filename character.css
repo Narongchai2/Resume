@@ -1,4 +1,4 @@
-.Hred{
+/*.Hred{
     position:absolute;
     top: 70px;
     left: 280px;
@@ -37,4 +37,8 @@
     position:absolute;
     top: 70px;
     right:  350px;
+}
+*/
+.font{
+    font-size: 25px;
 }
