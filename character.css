@@ -1,28 +1,3 @@
-.Hred{
-    color:white;
-}
-.Panya{
-    color:white;
-}
-.Major{
-    color:white;
-}
-.Faculty{
-    color:white;
-}
-.My{
-    color:white;
-}
-.I{
-    color:white;
-}
-.and{
-    color:white;
-}
-.Skills{
-    color:white;
-}
-
 .font{
     font-size: 25px;
     align :center;
@@ -32,4 +7,8 @@
 }
 .W{
     color:white;
+}
+body{
+    font-style: italic;
+    color: white;
 }
